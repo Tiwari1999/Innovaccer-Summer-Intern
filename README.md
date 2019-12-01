@@ -59,6 +59,7 @@ o	Select a host and check-in is done. Host will receive an SMS and an Email.
 o	Access Running Entry Section of Page
 o	Click on checkout and entry will be checked out. Guest will receive a mail regarding the meeting details.
 o	You may also checkout from Entry Details screen which can be accessed by clicking on an entry in Running Entry Section of Page
+![alt text](https://github.com/Tiwari1999/Innovaccer-summer-intern/blob/master/sample_images/Chech-out.png)
 ## 	Past Entry
 
 o	An entry once checked out can be viewed in Past Entry Section of Page
