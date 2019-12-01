@@ -1,6 +1,6 @@
 # Prerequisite
 
-All the python script that have been created are tested on python and Django . The mail is being sent using 
+All the python script that have been created are tested on python and Django. The mail is being sent using SMTP server and message is been sent through Twilio.
 
 
 
@@ -72,3 +72,14 @@ o	An entry once checked out can be viewed in Past Entry Section of Page
 
 ## Visitor check out
 ![alt text](https://github.com/Tiwari1999/Innovaccer-summer-intern/blob/master/sample_images/Chech-out.png)
+
+## Deployment & Testing
+The application has been deployed on heroku and can be accessed here.
+
+To test/run the app locally follow the steps given below.
+
+Clone this repository and install all the modules mentioned in requirements.txt file. All the module that are required for the system are installed through this file. 
+
+$ pip install -r requirements.txt
+
+For sending emails, you need a gmail id and allow third party applications to access it. Before using it here disable your mail security here to allow third party application access. If the application does not send mails even after this step, follow the instructions given here.
