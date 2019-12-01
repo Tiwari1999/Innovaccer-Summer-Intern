@@ -1,4 +1,3 @@
-# Innovaccer-summer-intern
 # Prerequisite
 
 All the python script that have been created are tested on python and Django . The mail is being sent using 
@@ -19,8 +18,12 @@ The Simple Mail Transfer Protocol (SMTP) is a communication protocol for electro
 How to Run
 The app is to be run on local virtual environment as python version 3.6 is been used .
 Then you'll have to update the email host user and password in settings.py –
+
+![Alt text](https://github.com/Tiwari1999/Innovaccer-summer-intern/blob/master/sample_images/EMAIL.png)
  
 And finally, update the twilio SID and token in settings.py so that sms function works properly -
+
+![Alt text](https://github.com/Tiwari1999/Innovaccer-summer-intern/blob/master/sample_images/Twillio.png)
  
 
 
@@ -59,7 +62,13 @@ o	Select a host and check-in is done. Host will receive an SMS and an Email.
 o	Access Running Entry Section of Page
 o	Click on checkout and entry will be checked out. Guest will receive a mail regarding the meeting details.
 o	You may also checkout from Entry Details screen which can be accessed by clicking on an entry in Running Entry Section of Page
-![alt text](https://github.com/Tiwari1999/Innovaccer-summer-intern/blob/master/sample_images/Chech-out.png)
 ## 	Past Entry
 
 o	An entry once checked out can be viewed in Past Entry Section of Page
+
+# Implementation
+## Visitor check in
+![alt text](https://github.com/Tiwari1999/Innovaccer-summer-intern/blob/master/sample_images/Check-in.png)
+
+## Visitor check out
+![alt text](https://github.com/Tiwari1999/Innovaccer-summer-intern/blob/master/sample_images/Chech-out.png)
