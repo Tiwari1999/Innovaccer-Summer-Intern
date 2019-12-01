@@ -73,6 +73,10 @@ o	An entry once checked out can be viewed in Past Entry Section of Page
 ## Visitor check out
 ![alt text](https://github.com/Tiwari1999/Innovaccer-summer-intern/blob/master/sample_images/Chech-out.png)
 
+## Entry of Host
+
+![alt text](https://github.com/Tiwari1999/Innovaccer-summer-intern/blob/master/sample_images/Host%20.png)
+
 ## Deployment & Testing
 The application has been deployed on heroku and can be accessed here.
 
